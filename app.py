@@ -488,7 +488,7 @@ def deptreportdetail(tracking_id):
         if report.get("longitude") is not None:
             report["longitude"] = float(report["longitude"])
         
-        return render_template("deptreportdetail.html", report=report)
+        return render_template("dept_report_detail.html", report=report)
     
     except Exception as e:
         print(f"Error: {e}")
