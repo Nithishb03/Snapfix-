@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./assets/snapfix_banner.jpg" alt="SnapFix Banner" width="800" style="border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);"/>
-</p>
+![SnapFix Banner](./assets/snapfix_banner.jpg)
 
 <h1 align="center">🚨 SnapFix</h1>
 
